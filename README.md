@@ -73,3 +73,19 @@ Launch .uproject file and enable plugin via *Settings* > *Plugins* > *Project* >
 * Generate Terrain
 
 ![](docs/images/perlin_noise_example_generate_terrain.png)
+
+
+## Project Authors
+
+
+### Owner
+
+[**@nutti**](https://github.com/nutti)
+
+Indie Game/Application Developer.  
+Especially, I spend most time to improve Blender and Unreal Game Engine via providing the extensions.
+
+Support via [GitHub Sponsors](https://github.com/sponsors/nutti)
+
+* CONTACTS: [Twitter](https://twitter.com/nutti__)
+* WEBSITE: [Japanese Only](https://colorful-pico.net/)
