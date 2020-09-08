@@ -75,6 +75,11 @@ Launch .uproject file and enable plugin via *Settings* > *Plugins* > *Project* >
 ![](docs/images/perlin_noise_example_generate_terrain.png)
 
 
+## Change Log
+
+See [CHANGELOG.md](CHANGELOG.md)
+
+
 ## Project Authors
 
 
