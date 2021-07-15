@@ -1,4 +1,4 @@
-#include "PerlinNoiseBPLibrary.h"
+#include "PerlinNoise/PerlinNoiseBPLibrary.h"
 
 namespace
 {
